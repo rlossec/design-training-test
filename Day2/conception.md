@@ -225,11 +225,15 @@ Responsabilités :
 
 **Authentification**
 
+![Schéma relationnel Auth](https://github.com/rlossec/design-training-test/blob/master/Day2/img/TablesAuth.png)
+
 **Gamification**
+
+![Schéma relationnel Auth](https://github.com/rlossec/design-training-test/blob/master/Day2/img/TablesGames.png)
 
 **Procedures**
 
-**Reward**
+![Schéma relationnel Auth](https://github.com/rlossec/design-training-test/blob/master/Day2/img/TablesProcedures.png)
 
 **Assitant**
 
