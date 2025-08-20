@@ -183,7 +183,7 @@ Responsabilités :
 
 #### 1.3.1. Authentification via FranceConnect
 
-![Authentification via FranceConnect](http://url/to/img.png)
+![Authentification via FranceConnect](https://github.com/rlossec/design-training-test/blob/master/Day2/img/recommandation.png)
 
 #### 1.3.2. Avancement d’une quête
 
