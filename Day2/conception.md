@@ -183,23 +183,21 @@ Responsabilités :
 
 #### 1.3.1. Authentification via FranceConnect
 
-![Authentification via FranceConnect](https://github.com/rlossec/design-training-test/blob/master/Day2/img/recommandation.png)
+![Authentification via FranceConnect](https://github.com/rlossec/design-training-test/blob/master/Day2/img/AuthFC.png)
 
 #### 1.3.2. Avancement d’une quête
 
-![Avancement d’une quête](http://url/to/img.png)
+![Avancement d’une quête](https://github.com/rlossec/design-training-test/blob/master/Day2/img/procedures.png)
 
 #### 1.3.3. Attribution de récompense
 
-![Attribution de récompense](http://url/to/img.png)
+![Attribution de récompense](https://github.com/rlossec/design-training-test/blob/master/Day2/img/Rewards.png)
 
-#### 1.3.4. Recommandation d’action par l’IA
+#### 1.3.4. Recommandation
 
-![Recommandation](http://url/to/img.png)
+![Recommandation](https://github.com/rlossec/design-training-test/blob/master/Day2/img/recommandation.png)
 
 #### 1.3.5. Conversation avec le Chatbot.
-
-![Conversation avec le Chatbot](http://url/to/img.png)
 
 ### 1.4. Patterns & choix techniques
 
