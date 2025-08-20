@@ -178,3 +178,15 @@ Responsabilités :
 - Pipeline
 - Segmentation des utilisateurs
 - Calcul des délais
+
+### 1.3. Flux critiques
+
+#### 1.3.1. Connexion via FranceConnect
+
+#### 1.3.2. Création / avancement d’une quête
+
+#### 1.3.3. Attribution de reward + progression XP
+
+#### 1.3.4. Recommandation d’action par l’IA
+
+#### 1.3.5. Chatbot (conversation + appel LLM).
