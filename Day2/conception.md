@@ -187,7 +187,7 @@ Responsabilités :
 
 #### 1.3.2. Avancement d’une quête
 
-![Avancement d’une quête](https://github.com/rlossec/design-training-test/blob/master/Day2/img/procedures.png)
+![Avancement d’une quête](https://github.com/rlossec/design-training-test/blob/master/Day2/img/Procedures.png)
 
 #### 1.3.3. Attribution de récompense
 
