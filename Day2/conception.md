@@ -190,3 +190,23 @@ Responsabilités :
 #### 1.3.4. Recommandation d’action par l’IA
 
 #### 1.3.5. Chatbot (conversation + appel LLM).
+
+### 1.4. Patterns & choix techniques
+
+**Frontend**
+
+- React + TypeScript + TailwindCSS
+- Zustand pour la gestion d’état.
+
+**Backend**
+
+- Django REST
+
+**IA**
+
+- Python
+
+**Base de données**
+
+- Données relationnelles : PostgreSQL
+- Cache : Redis
