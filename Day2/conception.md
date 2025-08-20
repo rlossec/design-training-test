@@ -181,15 +181,25 @@ Responsabilités :
 
 ### 1.3. Flux critiques
 
-#### 1.3.1. Connexion via FranceConnect
+#### 1.3.1. Authentification via FranceConnect
 
-#### 1.3.2. Création / avancement d’une quête
+![Authentification via FranceConnect](http://url/to/img.png)
 
-#### 1.3.3. Attribution de reward + progression XP
+#### 1.3.2. Avancement d’une quête
+
+![Avancement d’une quête](http://url/to/img.png)
+
+#### 1.3.3. Attribution de récompense
+
+![Attribution de récompense](http://url/to/img.png)
 
 #### 1.3.4. Recommandation d’action par l’IA
 
-#### 1.3.5. Chatbot (conversation + appel LLM).
+![Recommandation](http://url/to/img.png)
+
+#### 1.3.5. Conversation avec le Chatbot.
+
+![Conversation avec le Chatbot](http://url/to/img.png)
 
 ### 1.4. Patterns & choix techniques
 
@@ -210,3 +220,21 @@ Responsabilités :
 
 - Données relationnelles : PostgreSQL
 - Cache : Redis
+
+## 2. Modèle de Données
+
+### 2.1. Schéma relationnel
+
+**Authentification**
+
+**Gamification**
+
+**Procedures**
+
+**Reward**
+
+**Assitant**
+
+**Social**
+
+**Personnalisation**
