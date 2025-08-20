@@ -4,6 +4,11 @@
 
 - [1. Architecture Système](#1-architecture-systeme)
   - [1.1. Schéma global](#11-schema-global)
+  - [1.2. Description des modules](#12-description-des-modules)
+  - [1.3. Flux critiques](#13-flux-critiques)
+  - [1.4. Patterns & choix techniques](#14-patterns-choix-techniques)
+- [2. Modèle de données](#2-modele-de-donnees)
+  - [2.1. Schéma relationnel](#21-schema-relationnel)
 
 ---
 
@@ -101,7 +106,7 @@
 
 Responsabilités :
 
-- Information utilisateur, mot de passe haché
+- Information utilisateur basiques
 - Gestion des permissions et rôles
 
 2.  **Intégration FranceConnect**
